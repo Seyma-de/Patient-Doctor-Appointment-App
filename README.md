@@ -44,7 +44,7 @@ This project includes a full-stack web application that allows patients and doct
    npm start
    ```
 
-How Terminuns App work?
+How Terminuns App Work?
 Doctors and patients must be registered to the system in order to be able to use it. Non-registered users can search for doctors and free appointments, but must be registered to have a patient panel and to get appointments.
 After a doctor registers himself/herself to the system, she/he must enter her/his doctor panel and fill the information form. the form also includes the proof of the doctor’s background like diplom and certificates.
 When a doctor sends all the information to the system, the website admin will check the eligibility and validity of the documents and approve/authorize the doctor’s account.
