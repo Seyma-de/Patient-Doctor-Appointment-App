@@ -135,6 +135,3 @@ server: Backend code
 controllers: MongoDB operations and business logic
 models: MongoDB schemas
 routes: API routes
-
-<!--
-appointments.gif -->
